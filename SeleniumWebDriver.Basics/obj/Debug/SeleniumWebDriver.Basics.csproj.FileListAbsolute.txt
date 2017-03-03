@@ -1,0 +1,12 @@
+C:\Users\Saymon\Desktop\SeleniumWebDriver.Basics\SeleniumWebDriver.Basics\bin\Debug\SeleniumWebDriver.Basics.dll
+C:\Users\Saymon\Desktop\SeleniumWebDriver.Basics\SeleniumWebDriver.Basics\bin\Debug\SeleniumWebDriver.Basics.pdb
+C:\Users\Saymon\Desktop\SeleniumWebDriver.Basics\SeleniumWebDriver.Basics\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Saymon\Desktop\SeleniumWebDriver.Basics\SeleniumWebDriver.Basics\bin\Debug\nunit.framework.dll
+C:\Users\Saymon\Desktop\SeleniumWebDriver.Basics\SeleniumWebDriver.Basics\bin\Debug\WebDriver.dll
+C:\Users\Saymon\Desktop\SeleniumWebDriver.Basics\SeleniumWebDriver.Basics\bin\Debug\WebDriver.Support.dll
+C:\Users\Saymon\Desktop\SeleniumWebDriver.Basics\SeleniumWebDriver.Basics\bin\Debug\nunit.framework.xml
+C:\Users\Saymon\Desktop\SeleniumWebDriver.Basics\SeleniumWebDriver.Basics\bin\Debug\WebDriver.xml
+C:\Users\Saymon\Desktop\SeleniumWebDriver.Basics\SeleniumWebDriver.Basics\bin\Debug\WebDriver.Support.xml
+C:\Users\Saymon\Desktop\SeleniumWebDriver.Basics\SeleniumWebDriver.Basics\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Saymon\Desktop\SeleniumWebDriver.Basics\SeleniumWebDriver.Basics\obj\Debug\SeleniumWebDriver.Basics.dll
+C:\Users\Saymon\Desktop\SeleniumWebDriver.Basics\SeleniumWebDriver.Basics\obj\Debug\SeleniumWebDriver.Basics.pdb
