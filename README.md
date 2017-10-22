@@ -5,7 +5,7 @@ Projeto criado para estudos nível básico
 Dificuldade: fácil
 
 Tecnologias escolhidas:
-- Liguagem C#
+- Linguagem C#
 - Framework .NET
 - Framework de testes automatizados: Selenium WebDriver
 - Framework de testes automatizados: NUnit
