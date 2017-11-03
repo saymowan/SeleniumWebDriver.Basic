@@ -45,6 +45,7 @@ Validar resultados de teste
 * Criar pasta e incluir chromedriver (driver do navegador chrome)
 * Método SetUp: ações executada antes a cada teste iniciado
 * Método TearDown: últimas ações realizadas após o teste finalizar
+* Instalar o NUnit3TestAdapter
 
 ### 3. Classe PageObjects
 * Instalar NuGet: Selenium Support
