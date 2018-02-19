@@ -69,3 +69,6 @@ Validar resultados de teste
 * Clique com o botão direito e clique em "Run Selected Tests"
 * Após executar: Verde -> Assert validado com sucesso
 * Após executar: Vermelho -> Alguma ação não realizada ou Assert não validado
+
+
+Apoio: https://stackoverflow.com/questions/19298347/nunit-unit-tests-not-showing-in-test-explorer-with-test-adapter-installed
